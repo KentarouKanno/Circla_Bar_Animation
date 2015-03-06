@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9C0C2D1E-FCFF-4F38-B45F-26FE0CA6CE34</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UIView_Animation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AFC30C8837E4F46B6522120723D3F980C56FB34B</key>
+		<string>https://github.com/KentarouKanno/Circla_Bar_Animation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UIView_Animation/UIView_Animation.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AFC30C8837E4F46B6522120723D3F980C56FB34B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/KentarouKanno/Circla_Bar_Animation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AFC30C8837E4F46B6522120723D3F980C56FB34B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AFC30C8837E4F46B6522120723D3F980C56FB34B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>circleAnimation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
